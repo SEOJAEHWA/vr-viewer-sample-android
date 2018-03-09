@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vr-panorama/vr-panorama.iml" filepath="$PROJECT_DIR$/vr-panorama/vr-panorama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vr-video/vr-video.iml" filepath="$PROJECT_DIR$/vr-video/vr-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vr-viewer-android.iml" filepath="$PROJECT_DIR$/vr-viewer-android.iml" />
+    </modules>
+  </component>
+</project>

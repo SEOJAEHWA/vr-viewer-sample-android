@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VrPanoramaView</string>
+
+    <string name="opt_info">Info</string>
+    <string name="opt_stereo_mode">Stereo Mode</string>
+    <string name="opt_full_screen">Full Screen</string>
+    <string name="opt_fling">Fling</string>
+
+    <string name="on_fragment">On Fragment</string>
+    <string name="on_recyclerView">On RecyclerView</string>
+</resources>
