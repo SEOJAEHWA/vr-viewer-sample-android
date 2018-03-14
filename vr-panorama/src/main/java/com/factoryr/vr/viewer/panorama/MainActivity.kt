@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity(), CompoundButton.OnCheckedChangeListener
         View.OnClickListener {
 
     companion object {
-        private val VR_IMAGE_URL = "http://home.smartinfini.com/andes.jpg"
+        private const val VR_IMAGE_URL = "http://home.smartinfini.com/andes.jpg"
     }
 
     private var vrPanoramaView: VrPanoramaView? = null
